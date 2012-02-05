@@ -4,6 +4,8 @@ I created this theme using [Vivify](http://bytefluent.com/vivify/), although I a
 
 It's dark pastel theme that kinda reminds me of Gummy bears, it's based on [Jellybeans](http://www.vim.org/scripts/script.php?script_id=2555).
 
+For the screenshot album: [Here!](http://imgur.com/a/Ulmiv#0)
+
 Here are some screenshots:
 
 ### CSS
