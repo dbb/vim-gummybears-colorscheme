@@ -10,7 +10,7 @@ Gummybears supports **256-color terminal** and **GVim / MacVim**.
 - Using a Plugin Manager (RECOMMENDED)
 I highly recommend you use a plugin manager like [Pathogen](https://github.com/tpope/vim-pathogen) or [Vundle](https://github.com/gmarik/vundle).
 On the command line, clone this repo and copy it to your `~/.vim/bundle` directory.
-`$ git clone https://github.com/jelera/vim-gummybears-colorscheme ~/.vim/bundle`
+`$ git clone https://github.com/jelera/vim-gummybears-colorscheme ~/.vim/bundle/vim-gummybears-colorscheme`
 
 or 
 
